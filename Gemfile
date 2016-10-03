@@ -14,6 +14,7 @@ group :development, :test do
   gem 'byebug'
   gem 'web-console'
   gem 'spring'
+  gem 'listen', '~> 3.0.5'
 end
 
 group :production do
